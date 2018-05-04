@@ -58,6 +58,8 @@ group :test do
   gem 'chromedriver-helper'
   gem 'minitest'
   gem 'minitest-reporters'
+  gem 'guard'
+  gem 'guard-minitest'
 end
 
 group :production do
